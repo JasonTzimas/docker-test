@@ -6,3 +6,5 @@ print(f"Setup: {joke['setup']}")
 print(f"Punchline: {joke['punchline']}")
 
 print("This is the first version of the application")
+
+print("This is the second version of the application")
